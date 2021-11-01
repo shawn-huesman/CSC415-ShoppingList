@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CSC415-ShoppingList</string>
+    <string name="add_item">AddItem</string>
+</resources>
